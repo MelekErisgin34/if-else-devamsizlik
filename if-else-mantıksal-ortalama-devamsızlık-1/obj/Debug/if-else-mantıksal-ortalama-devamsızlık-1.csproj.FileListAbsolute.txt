@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\bin\Debug\if-else-mantıksal-ortalama-devamsızlık-1.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\bin\Debug\if-else-mantıksal-ortalama-devamsızlık-1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\bin\Debug\if-else-mantıksal-ortalama-devamsızlık-1.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if_else_mantıksal_ortalama_devamsızlık_1.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if_else_mantıksal_ortalama_devamsızlık_1.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if-else-mantıksal-ortalama-devamsızlık-1\if-else-mantıksal-ortalama-devamsızlık-1\obj\Debug\if-else-mantıksal-ortalama-devamsızlık-1.pdb
